@@ -48,7 +48,7 @@ class _CustomKeyBoardState extends State<CustomKeyBoard> {
           style: TextStyle(
             fontSize: 34,
             fontWeight: FontWeight.w700,
-            fontFamily: 'Manrope',
+            // fontFamily: 'Manrope',
             color: widget.pinTheme.keysColor,
           ),
         );
