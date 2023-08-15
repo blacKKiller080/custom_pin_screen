@@ -16,3 +16,19 @@ dev_dependencies:
   flutter_lints: ^1.0.0
   flutter_test:
     sdk: flutter
+
+flutter: 
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope/Manrope-Bold.ttf
+        - asset: assets/fonts/Manrope/Manrope-ExtraBold.ttf
+        - asset: assets/fonts/Manrope/Manrope-ExtraLight.ttf
+        - asset: assets/fonts/Manrope/Manrope-Light.ttf
+        - asset: assets/fonts/Manrope/Manrope-Medium.ttf
+        - asset: assets/fonts/Manrope/Manrope-Regular.ttf
+        - asset: assets/fonts/Manrope/Manrope-SemiBold.ttf

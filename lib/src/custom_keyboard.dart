@@ -46,8 +46,9 @@ class _CustomKeyBoardState extends State<CustomKeyBoard> {
         return Text(
           number?.toString() ?? "",
           style: TextStyle(
-            fontSize: 22,
-            fontWeight: FontWeight.bold,
+            fontSize: 34,
+            fontWeight: FontWeight.w700,
+            fontFamily: 'Manrope',
             color: widget.pinTheme.keysColor,
           ),
         );
